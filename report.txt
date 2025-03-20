@@ -1,0 +1,12 @@
+Plotted to 'C:\Users\vidus\OneDrive\Documents\Demo project\Buck Convertor\Buck Convertor-backups\Buck Convertor-F_Cu.gtl'.
+Plotted to 'C:\Users\vidus\OneDrive\Documents\Demo project\Buck Convertor\Buck Convertor-backups\Buck Convertor-B_Cu.gbl'.
+Plotted to 'C:\Users\vidus\OneDrive\Documents\Demo project\Buck Convertor\Buck Convertor-backups\Buck Convertor-F_Paste.gtp'.
+Plotted to 'C:\Users\vidus\OneDrive\Documents\Demo project\Buck Convertor\Buck Convertor-backups\Buck Convertor-B_Paste.gbp'.
+Plotted to 'C:\Users\vidus\OneDrive\Documents\Demo project\Buck Convertor\Buck Convertor-backups\Buck Convertor-F_Silkscreen.gto'.
+Plotted to 'C:\Users\vidus\OneDrive\Documents\Demo project\Buck Convertor\Buck Convertor-backups\Buck Convertor-B_Silkscreen.gbo'.
+Plotted to 'C:\Users\vidus\OneDrive\Documents\Demo project\Buck Convertor\Buck Convertor-backups\Buck Convertor-F_Mask.gts'.
+Plotted to 'C:\Users\vidus\OneDrive\Documents\Demo project\Buck Convertor\Buck Convertor-backups\Buck Convertor-B_Mask.gbs'.
+Plotted to 'C:\Users\vidus\OneDrive\Documents\Demo project\Buck Convertor\Buck Convertor-backups\Buck Convertor-Edge_Cuts.gm1'.
+Plotted to 'C:\Users\vidus\OneDrive\Documents\Demo project\Buck Convertor\Buck Convertor-backups\Buck Convertor-Margin.gbr'.
+Created Gerber job file 'C:\Users\vidus\OneDrive\Documents\Demo project\Buck Convertor\Buck Convertor-backups\Buck Convertor-job.gbrjob'.
+Info: Done.
